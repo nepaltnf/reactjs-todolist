@@ -11,7 +11,7 @@ h2,
 h3,
 input,
 button {
-  font-family: "Press Start 2P", system-ui;
+  /*font-family: "Press Start 2P", system-ui; */
 }
 
 #root {
@@ -19,7 +19,7 @@ button {
   display: flex;
   flex-direction: column;
   padding: 14px;
-  background: #cdd2d9;
+  background: #40ff3d;
   gap: 14px;
 }
 
